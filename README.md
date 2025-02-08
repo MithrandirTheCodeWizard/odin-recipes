@@ -1,2 +1,2 @@
-# odin-recipies
-TOP recipies project. 
+# odin-recipes
+TOP recipes project. 
